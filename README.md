@@ -1,6 +1,6 @@
 # Flower Animation 🌸~
 
-Hand Drawn Flower🌸~
+Hand drawn flower via Gimp 🌸~
 
 Made for React animation testing :smile_cat::v:
 
