@@ -1,0 +1,309 @@
+svg {
+  fill: none;
+  max-width: 98vw;
+  max-height: 98vh;
+}
+path {
+  stroke-width: 3px;
+}
+
+#path-0 {
+  stroke: #cccccc57;
+}
+#path-1 {
+  stroke: #6699cc71;
+}
+#path-2 {
+  stroke: #669999;
+}
+#path-3 {
+  stroke: #ccccff;
+}
+#path-4 {
+  stroke: #9999cc91;
+}
+#path-5 {
+  stroke: #6666995d;
+}
+#path-6 {
+  stroke: #179e1763;
+}
+#path-7 {
+  stroke: #1c94da9a;
+}
+#path-8 {
+  stroke: #24dfdf81;
+}
+#path-9 {
+  stroke: #2ac52a50;
+}
+#path-10 {
+  stroke: #43b128a4;
+}
+#path-11 {
+  stroke: #6666cc;
+}
+#path-12 {
+  stroke: #33336698;
+}
+#path-13 {
+  stroke: #336666;
+}
+#path-14 {
+  stroke: #9966cc;
+}
+#path-15 {
+  stroke: #cc99997e;
+}
+#path-16 {
+  stroke: #ffcccc;
+}
+#path-17 {
+  stroke: #ffccff;
+}
+#path-18 {
+  stroke: #cc99cc;
+}
+#path-19 {
+  stroke: #9966999d;
+}
+#path-20 {
+  stroke: #330066;
+}
+#path-21 {
+  stroke: #333399;
+}
+#path-22 {
+  stroke: #339966;
+}
+#path-23 {
+  stroke: #339933;
+}
+#path-24 {
+  stroke: #333333;
+}
+#path-25 {
+  stroke: #663366;
+}
+#path-26 {
+  stroke: #663399;
+}
+#path-27 {
+  stroke: #336633;
+}
+#path-28 {
+  stroke: #003333;
+}
+#path-29 {
+  stroke: #330033;
+}
+#path-30 {
+  stroke: #000033;
+}
+#path-31 {
+  stroke: #000000;
+}
+#path-32 {
+  stroke: #663333;
+}
+#path-33 {
+  stroke: #996666;
+}
+#path-34 {
+  stroke: #330000;
+}
+#path-35 {
+  stroke: #996633;
+}
+#path-36 {
+  stroke: #cc6666;
+}
+#path-37 {
+  stroke: #cc9966;
+}
+#path-38 {
+  stroke: #993333;
+}
+#path-39 {
+  stroke: #993366;
+}
+#path-40 {
+  stroke: #66cc99;
+}
+#path-41 {
+  stroke: #66cc66;
+}
+#path-42 {
+  stroke: #666633;
+}
+#path-43 {
+  stroke: #ff9966;
+}
+#path-44 {
+  stroke: #999966;
+}
+#path-45 {
+  stroke: #669933;
+}
+#path-46 {
+  stroke: #cccc99;
+}
+#path-47 {
+  stroke: #660066;
+}
+#path-48 {
+  stroke: #cc6699;
+}
+#path-49 {
+  stroke: #660000;
+}
+#path-50 {
+  stroke: #ffffcc;
+}
+#path-51 {
+  stroke: #ffcc99;
+}
+#path-52 {
+  stroke: #990066;
+}
+#path-53 {
+  stroke: #cc3333;
+}
+#path-54 {
+  stroke: #cc0066;
+}
+#path-55 {
+  stroke: #ff9933;
+}
+#path-56 {
+  stroke: #ff6699;
+}
+#path-57 {
+  stroke: #cccc66;
+}
+#path-58 {
+  stroke: #ffff33;
+}
+#path-59 {
+  stroke: #663300;
+}
+#path-60 {
+  stroke: #cc6633;
+}
+#path-61 {
+  stroke: #cc6600;
+}
+#path-62 {
+  stroke: #ff6600;
+}
+#path-63 {
+  stroke: #ffff66;
+}
+#path-64 {
+  stroke: #cc3300;
+}
+#path-65 {
+  stroke: #990033;
+}
+#path-66 {
+  stroke: #ff6633;
+}
+#path-67 {
+  stroke: #ff9999;
+}
+#path-68 {
+  stroke: #ffff99;
+}
+#path-69 {
+  stroke: #cccc33;
+}
+#path-70 {
+  stroke: #996600;
+}
+#path-71 {
+  stroke: #cc9933;
+}
+#path-72 {
+  stroke: #999933;
+}
+#path-73 {
+  stroke: #ff3399;
+}
+#path-74 {
+  stroke: #660033;
+}
+#path-75 {
+  stroke: #ffff00;
+}
+#path-76 {
+  stroke: #ffcc33;
+}
+#path-77 {
+  stroke: #990000;
+}
+#path-78 {
+  stroke: #cc66cc;
+}
+#path-79 {
+  stroke: #cc3399;
+}
+#path-80 {
+  stroke: #cccc00;
+}
+#path-81 {
+  stroke: #cc9900;
+}
+#path-82 {
+  stroke: #ff6666;
+}
+#path-83 {
+  stroke: #ff3333;
+}
+#path-84 {
+  stroke: #cc3366;
+}
+#path-85 {
+  stroke: #cc0033;
+}
+#path-86 {
+  stroke: #ff3366;
+}
+#path-87 {
+  stroke: #ff99ff;
+}
+#path-88 {
+  stroke: #ffcc66;
+}
+#path-89 {
+  stroke: #cc99ff;
+}
+#path-90 {
+  stroke: #cc0099;
+}
+#path-91 {
+  stroke: #ff0066;
+}
+#path-92 {
+  stroke: #993300;
+}
+#path-93 {
+  stroke: #cc0000;
+}
+#path-94 {
+  stroke: #ffcc00;
+}
+#path-95 {
+  stroke: #993399;
+}
+#path-96 {
+  stroke: #ff3300;
+}
+#path-97 {
+  stroke: #ff66cc;
+}
+#path-98 {
+  stroke: #ff99cc;
+}
+#path-99 {
+  stroke: #ff0000;
+}
